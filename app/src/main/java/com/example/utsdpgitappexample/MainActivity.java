@@ -7,7 +7,7 @@ import android.widget.ListView;
 
 public class MainActivity extends Activity {
     // Array of strings...
-    String[] classNames = {"Christine Julien", "foo"};
+    String[] classNames = {"Christine Julien"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
