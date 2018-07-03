@@ -7,6 +7,7 @@ import android.widget.ListView;
 
 public class MainActivity extends Activity {
     // Array of strings...
+
     String[] classNames = {"Christine Julien", "Lilly Tian", "Jonathan Browne"};
 
     @Override
